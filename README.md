@@ -7,6 +7,6 @@
 
 <a href="https://www.linkedin.com/in/vaibhav-chaudhary-9380b142b/">Linkdin</a>&ensp;·&ensp;
 <a href="mailto:vaibhavchaudhary767@gmail.com">Email</a>&ensp;·&ensp;
-<a href="https://vaibhavchaudhary.vercel.app">Portfolio</a>&ensp;·&ensp;
+<a href="https://vaibhavchaudhary.vercel.app">Portfolio</a>
 
 </div>
