@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-reduced-motion: reduce)" srcset="./assets/gargantua-banner.png" />
-    <img src="./assets/gargantua-banner.gif" alt="Vaibhav Chaudhary — Code. Curiosity. Cosmos. A cinematic black hole inspired by Interstellar, in midnight blue, with fine light strands flowing horizontally through its accretion disk and the words Curiosity has no escape velocity." width="100%" />
+    <source media="(prefers-reduced-motion: reduce)" srcset="./gargantua-banner.png" />
+    <img src="./gargantua-banner.gif" alt="Vaibhav Chaudhary — Code. Curiosity. Cosmos. A cinematic black hole inspired by Interstellar, in midnight blue, with fine light strands flowing horizontally through its accretion disk and the words Curiosity has no escape velocity." width="100%" />
   </picture>
 </p>
 
