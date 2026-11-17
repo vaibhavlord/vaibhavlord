@@ -1,12 +1,17 @@
-<img src="./banner.svg" alt="Vaibhav banner" width="100%">
+<p align="center">
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="./assets/gargantua-banner.png" />
+    <img src="./assets/gargantua-banner.gif" alt="Vaibhav Chaudhary — Code. Curiosity. Cosmos. A cinematic black hole inspired by Interstellar, in midnight blue, with fine light strands flowing horizontally through its accretion disk and the words Curiosity has no escape velocity." width="100%" />
+  </picture>
+</p>
 
 <div align="center">
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3679D2FF&width=435&&center=true&vCenter=true&width=520&lines=one+more+commit+then+sleep;git+commit+-m+%22it+worked+yesterday%22" alt="Typing SVG" /></a>
 
 
-<a href="https://www.linkedin.com/in/vaibhav-chaudhary-9380b142b/">Linkdin</a>&ensp;·&ensp;
-<a href="mailto:vaibhavchaudhary767@gmail.com">Email</a>&ensp;·&ensp;
-<a href="https://vaibhavchaudhary.vercel.app">Portfolio</a>
+<a href="https://www.linkedin.com/in/vaibhav-chaudhary-9380b142b/"><img src="https://img.shields.io/badge/LINKDIN-111?style=flat-square&logo=linkdin&logoColor=3679D2" alt="Linkdin"></a>
+<a href="mailto:vaibhavchaudhary767@gmail.com"><img src="https://img.shields.io/badge/EMAIL-111?style=flat-square&logo=gmail&logoColor=3679D2" alt="Email"></a>
+<a href="https://vaibhavchaudhary.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-111?style=flat-square&logo=vercel&logoColor=3679D2" alt="Portfolio"></a>
 
 </div>
