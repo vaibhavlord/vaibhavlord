@@ -11,7 +11,7 @@
 
 CS + AI student · Curious builder
 
-<a href="https://vaibhavchaudhary.vercel.app">Portfolio</a> &nbsp; / &nbsp;
+<a href="https://vaibhavchaudhary.me">Portfolio</a> &nbsp; / &nbsp;
 <a href="https://www.linkedin.com/in/vaibhav-chaudhary-9380b142b/">LinkedIn</a> &nbsp; / &nbsp;
 <a href="mailto:vaibhavchaudhary767@gmail.com">Send a transmission</a>
 
